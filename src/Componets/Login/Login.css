@@ -1,0 +1,68 @@
+.login-form{
+    position: absolute;
+    width: 570px;
+    left: 438px;
+    top: 171px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 30px;
+    
+}
+.nav-button{
+    border: none;
+    background-color:#F9A51A ;
+    padding: 5px;
+}
+p span{
+    color: grey;
+    font-size: 15px;
+    font-weight: normal;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    color:#F9A51A ;
+    font-weight: 500;
+    font-size: 16px
+}
+.nav-btn{
+    color: black;
+    margin-right: 20px;
+}
+.login-button{
+    width: 461px;
+    height: 50px;
+    background: #F9A51A;
+    margin-top: 30px;
+    margin-left: 23px;
+    border: none;
+
+}
+p{
+    text-align: center;
+    margin-top: 20px;
+}
+.create-account{
+    color: #F9A51A;
+    cursor: pointer;
+    font-weight: 600;
+}
+.button-group button{
+    width: 461px;
+    height: 50px;
+    background: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 23px;
+    border: 1px solid grey;
+    border-radius:27px;
+    font-weight: 500;
+    text-align: center;
+}
+.button-group button img{
+   
+    height: 33px;
+    width: 33px;
+    margin-right: 10px;
+}

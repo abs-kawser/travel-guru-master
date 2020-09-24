@@ -1,0 +1,22 @@
+h5{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 19px;
+}
+span{
+    font-size: 14px;
+    color: grey;
+    font-weight: 500;
+    
+    
+}
+p{
+    line-height: 14px;
+    text-align: left;
+}
+b{
+    color: black;
+    margin-left: 25px;
+}

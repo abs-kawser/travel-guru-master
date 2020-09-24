@@ -1,0 +1,18 @@
+var Hotelroomdata = [
+    {
+        id:1,
+        name:"Light bright airy stylish apt & safe peaceful stay",
+        img:"https://lh3.googleusercontent.com/e1qq21X7hXDKdvKFMXaa2miaJqzSmwFnuwcLvfpFz2SC8mWAmy8Mth6xdtu_UxUTyLAg8Xupm9iDRlZ48AQ6SvRaA0hh_HdAcuG5CeTQnQQZ45xZ2jNRu-vnH4caatE5f2WxZKt15U1at-d8luXJt3hYQngDfA0-5VbPtOEAgbmlLz9I20rQ7wt9BfVPjlTPm37Cv0O2cZTqZsExLo6Tnh-puKQwcjEPnLKzQXxC5fLE-AuqGfv_PnLko_MYK4wXUoWUdRftTOSqB60Uit7SYyceraorp2ic7UjabPc-eDc6m3xllNJAY4gxQqRzWonEm29I_o2rQ6kaD4pc_gG4-egcdqjVoixbTdZ42tULXhNFOvp1lk7OezrWxualiR3LnQgmHGOC7dVZbpKRAiscTBFYOmcpUEFcErC04T1QANNv3vBRb0TJgLVI2fIPSIH4QL1JTpqweLcImgESB3PPR6zOthN0ItWu9XsdPCWD7kEeHfAas7mlgSSFtaWqnAyNsgyd2jUCcKDZXY8JU2CSj5TqQDUT5QTdev7fo_6GSWCSc7OagJSMH1jFbpIlPGkcN3cZekmkSuv3ekvcK8NBD6dwzMAQS700AOffVo-I6-IWcza9h-3ByelVRdg9ubtsZumFOGYTaj5oQVvXaV9g8CQh24u4S8sDgEVNae5--p1MHZ9yKfDgaKqPzziE=w540-h376-no?authuser=0"
+    },
+    {
+        id:2,
+        name:"Apartment in Lost Panorama",
+        img:"https://lh3.googleusercontent.com/2G4SsGpvd4GlA5mEZUQ5w96U5Sg10l387KwCYUZQ15JNa5kjZVFwnEurU8HlexU2_sRNcxCVGygpyPGO6Jh07SiX-edLJcsM5jOUC1QCLsdJXCiRCfGwvMoLrffAkMnrjin-dE4uRl02V_pGnSer7RnwnKhXTVMk68N2ROhP9eXlJcJ08BAI0BjRDVgoGq4akC0ZqSBBskCINlPTfvhKb7dS4gccX048xRzRdMShVJBpuVjH0fR9fN7KuWr09IdmEaEk-S6Z7S9p7QtVw-gxSJdeWWSvp9lF3qgiVK-Kpfc0mimSLJ4SE2aUiGUecT8-dLukzxpAU45lel4UNTf3VGe6MdcZZ3hPlnE5jif0zaGrz4HpGurH6g7blfUt0_AZ16gNcOIHaCP9yjBUos78dVXmJFwH5kA77GiiFffylpXTswkqA2B314kVzsMRJqujvyjM4SMVhZEp6eHSkx9PFZrrZP8XYy8V1_SiqYeIEvvRyAc5R6g28d02OO2dvtGxRY0bYx4a1x4-tJuYTpxpZbAwlYenCXVu1i9baPRRcXZPrj4sYHMXgsklML0xwjSJAPMlwQetOmcDa7EdPZevjxYasmIBsI5sKTqCHUi_3jUUH-Jw3aatA4lTJA1i9sw97aED4KZDUspxFrHQ2gTwMYavVVvNZ5lA2wJ8BAAK9PPBtJ6htOcGDDGkCP2m=w540-h376-no?authuser=0"
+    },
+    {
+        id:3, 
+        name:"AR Lounge & Pool (r&r + b&b)",
+        img:"https://lh3.googleusercontent.com/kI8NEgdm9I7BqDf5z2mrKCSGszqDAJ-rA63Ea43I3huiL8AkA0rwsTXYaCIPt8vyIDV7uYdggqGDYalaorOwkhmipPyPpJRCVmkRNV6XPkEsWyCsuOW-mcs38HSBkxEd-PRsURoboy_p63vytg_UvHdiMkRcV3F_yopslMvhXkslWGLlftlBRsL_CsnPRS_HMDdDMlOjN5duaF1RpxOMIxfP_qxOLZRUKAfFog_NpjlPm2lzw1hZJZGS88q5VftDr0A_ofHT7HEvI-dKu3p7OE0ZqAJ9VaBTFSdciDE3WSUJOFKTyVT3ztQ4lKEyKyY4wkTf8h6MuxphVfSKruVx_-HT1AeHu-j5lIwazx5VsGyVTvUqtcTR2HtecDMMxifC1nWp_MnGFR0UxjhpjMaaggj3l01maBLHoHBG1bdKPpwODJHvjmcHu9XOUV2QySm3IJZGna7ULUcNQlcGPe9EDU_7mVLoBJcJbwRTOxhqBQ9Es3mX4HKfN90YjJSxJhaVl3yhT94BzOORtjJKc9_IKLgkMXA2TIrPQXQ3feYIbi4Y5DkISHr07jEKyPSuTxkt4tF2v4TCkofLxl75ZuBtkD8ryQo5EUImfOeVM5A5nF8gnvjScsuz2q4IZspfxmfMPSVO4SGNI2uYuE6IIj7RjPzCfT5fxqQ5pianan1-f8FA6oZ8FEUyPi-PBnay=w540-h376-no?authuser=0"
+    }
+]
+export default Hotelroomdata;

@@ -1,0 +1,19 @@
+.guest-text{
+    margin-top: 20px;
+    color:grey;
+    font-weight: 500;
+    text-align: left;
+}
+.search-result{
+    display: flex;
+}
+.room-details{
+    width: 60%;
+}
+.map{
+    width: 40%;
+}
+.nav-btn{
+    color: black;
+    margin-right: 20px;
+}
