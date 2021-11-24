@@ -1,1 +1,1 @@
-travel-guru-mastert-project.web.app
+https://travel-guru-mastert-project.web.app/
